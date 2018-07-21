@@ -4,4 +4,8 @@ public class Apple {
 		System.out.println("OK.");
 		System.out.println("This is an Apple");
 	}
+	
+	public void sayName() {
+		System.out.println("I am Apple.");
+	}
 }
